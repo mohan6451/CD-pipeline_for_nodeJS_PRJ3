@@ -9,7 +9,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/YOUR_GITHUB_USERNAME/nodejs-manifests.git
+    repoURL: https://github.com/mohan6451/CD-pipeline_for_nodeJS_PRJ3.git
     targetRevision: main
     path: .
 
