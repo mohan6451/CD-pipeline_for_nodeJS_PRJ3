@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
         - name: nodejs-app
-          image: YOUR_DOCKERHUB_USERNAME/nodejs-app:latest   # CI auto-updates this
+          image: mohan6451/nodejs-app:6ab8bce84c2514d97af0841b0672505838646030
           ports:
             - containerPort: 3000
           env:
